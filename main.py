@@ -2,6 +2,8 @@ import sys
 import datetime
 
 def run_tests():
+
+    print("automatic build code")
     print("=========================================")
     print("Starting Jenkins Build Process...")
     print(f"Build Time: {datetime.datetime.now()}")
