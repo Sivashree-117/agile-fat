@@ -9,7 +9,7 @@ def run_tests():
     
     # Simulate some unit tests
     print("[INFO] Running unit tests...")
-    tests_passed = True
+    tests_passed = False
     
     if tests_passed:
         print("[SUCCESS] All tests passed!")
